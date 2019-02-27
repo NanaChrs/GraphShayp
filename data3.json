@@ -1,0 +1,719 @@
+{
+    "success": true,
+    "message": "This is the list daily impulses for device 3A9949 in the interval from 2018-11-15 to 2019-02-21",
+    "device": {
+        "id": "5c2fb91dec7ca61055fe3af9",
+        "device_id": "3A9949",
+        "address": "Boulevard Dolez 69, Mons",
+        "description": "UMONS - CITE HOUZEAU",
+        "water_meter": null,
+        "version": 4,
+        "leak_threshold": 10,
+        "pulse_weight": 1,
+        "mute_debug": true,
+        "notes": null,
+        "type_of_building": null,
+        "leak_sensitivity_period": 24,
+        "cost_of_cubic": 5,
+        "currency": "€",
+        "workers": [
+            "analysis_daily"
+        ],
+        "frame_error_dates": []
+    },
+    "data": [
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-15",
+            "count": 237,
+            "pulses": 36225,
+            "minimum": 5760
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-16",
+            "count": 224,
+            "pulses": 28807,
+            "minimum": 6240
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-17",
+            "count": 221,
+            "pulses": 17028,
+            "minimum": 5760
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-18",
+            "count": 228,
+            "pulses": 20713,
+            "minimum": 6480
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-19",
+            "count": 238,
+            "pulses": 35798,
+            "minimum": 7680
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-20",
+            "count": 237,
+            "pulses": 34806,
+            "minimum": 6240
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-21",
+            "count": 238,
+            "pulses": 38116,
+            "minimum": 7440
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-22",
+            "count": 237,
+            "pulses": 39032,
+            "minimum": 6240
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-23",
+            "count": 238,
+            "pulses": 30673,
+            "minimum": 6480
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-24",
+            "count": 238,
+            "pulses": 16975,
+            "minimum": 6480
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-25",
+            "count": 237,
+            "pulses": 22624,
+            "minimum": 5520
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-26",
+            "count": 238,
+            "pulses": 31791,
+            "minimum": 5760
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-27",
+            "count": 237,
+            "pulses": 35966,
+            "minimum": 5520
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-28",
+            "count": 238,
+            "pulses": 35384,
+            "minimum": 6960
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-29",
+            "count": 237,
+            "pulses": 34188,
+            "minimum": 7200
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-11-30",
+            "count": 238,
+            "pulses": 28316,
+            "minimum": 7680
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-01",
+            "count": 238,
+            "pulses": 20678,
+            "minimum": 7680
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-02",
+            "count": 237,
+            "pulses": 19877,
+            "minimum": 4800
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-03",
+            "count": 238,
+            "pulses": 33672,
+            "minimum": 6240
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-04",
+            "count": 238,
+            "pulses": 36326,
+            "minimum": 6480
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-05",
+            "count": 237,
+            "pulses": 47344,
+            "minimum": 8640
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-06",
+            "count": 238,
+            "pulses": 37120,
+            "minimum": 6480
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-07",
+            "count": 237,
+            "pulses": 27848,
+            "minimum": 6000
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-08",
+            "count": 238,
+            "pulses": 16090,
+            "minimum": 5520
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-09",
+            "count": 238,
+            "pulses": 21736,
+            "minimum": 6240
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-10",
+            "count": 227,
+            "pulses": 26446,
+            "minimum": 5280
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-11",
+            "count": 218,
+            "pulses": 27089,
+            "minimum": 5040
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-12",
+            "count": 237,
+            "pulses": 32729,
+            "minimum": 6480
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-13",
+            "count": 228,
+            "pulses": 32212,
+            "minimum": 6720
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-14",
+            "count": 237,
+            "pulses": 28719,
+            "minimum": 6240
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-15",
+            "count": 238,
+            "pulses": 19071,
+            "minimum": 5280
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-16",
+            "count": 238,
+            "pulses": 20142,
+            "minimum": 4800
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-17",
+            "count": 237,
+            "pulses": 30155,
+            "minimum": 4800
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-18",
+            "count": 188,
+            "pulses": 20870,
+            "minimum": 5760
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-19",
+            "count": 238,
+            "pulses": 29530,
+            "minimum": 4320
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-20",
+            "count": 237,
+            "pulses": 34639,
+            "minimum": 5040
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-21",
+            "count": 238,
+            "pulses": 27578,
+            "minimum": 6960
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-22",
+            "count": 227,
+            "pulses": 13864,
+            "minimum": 5280
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-23",
+            "count": 238,
+            "pulses": 13010,
+            "minimum": 4320
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-24",
+            "count": 237,
+            "pulses": 12739,
+            "minimum": 4320
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-25",
+            "count": 238,
+            "pulses": 10835,
+            "minimum": 4800
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-26",
+            "count": 238,
+            "pulses": 12920,
+            "minimum": 4080
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-27",
+            "count": 237,
+            "pulses": 13169,
+            "minimum": 4560
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-28",
+            "count": 238,
+            "pulses": 13982,
+            "minimum": 4080
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-29",
+            "count": 237,
+            "pulses": 15368,
+            "minimum": 3600
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-30",
+            "count": 238,
+            "pulses": 15341,
+            "minimum": 4560
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2018-12-31",
+            "count": 238,
+            "pulses": 13889,
+            "minimum": 3600
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-01",
+            "count": 237,
+            "pulses": 13390,
+            "minimum": 4320
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-02",
+            "count": 238,
+            "pulses": 14499,
+            "minimum": 2880
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-03",
+            "count": 237,
+            "pulses": 16649,
+            "minimum": 3600
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-04",
+            "count": 238,
+            "pulses": 17486,
+            "minimum": 3840
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-05",
+            "count": 238,
+            "pulses": 18025,
+            "minimum": 3600
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-06",
+            "count": 237,
+            "pulses": 23641,
+            "minimum": 3600
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-07",
+            "count": 238,
+            "pulses": 29295,
+            "minimum": 5520
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-08",
+            "count": 237,
+            "pulses": 30486,
+            "minimum": 8160
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-09",
+            "count": 238,
+            "pulses": 29178,
+            "minimum": 7200
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-10",
+            "count": 238,
+            "pulses": 27689,
+            "minimum": 5760
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-11",
+            "count": 237,
+            "pulses": 28632,
+            "minimum": 6000
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-12",
+            "count": 238,
+            "pulses": 22070,
+            "minimum": 4800
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-13",
+            "count": 237,
+            "pulses": 21886,
+            "minimum": 6960
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-14",
+            "count": 238,
+            "pulses": 28309,
+            "minimum": 4800
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-15",
+            "count": 237,
+            "pulses": 28483,
+            "minimum": 6720
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-16",
+            "count": 238,
+            "pulses": 31027,
+            "minimum": 6240
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-17",
+            "count": 237,
+            "pulses": 28759,
+            "minimum": 5760
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-18",
+            "count": 238,
+            "pulses": 28133,
+            "minimum": 6720
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-19",
+            "count": 238,
+            "pulses": 24245,
+            "minimum": 6960
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-20",
+            "count": 237,
+            "pulses": 23615,
+            "minimum": 6960
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-21",
+            "count": 238,
+            "pulses": 30706,
+            "minimum": 6960
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-22",
+            "count": 237,
+            "pulses": 29010,
+            "minimum": 7680
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-23",
+            "count": 238,
+            "pulses": 29100,
+            "minimum": 7680
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-24",
+            "count": 238,
+            "pulses": 28950,
+            "minimum": 7200
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-25",
+            "count": 237,
+            "pulses": 30485,
+            "minimum": 6000
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-26",
+            "count": 238,
+            "pulses": 22040,
+            "minimum": 12000
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-27",
+            "count": 237,
+            "pulses": 20620,
+            "minimum": 11520
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-28",
+            "count": 238,
+            "pulses": 19550,
+            "minimum": 9120
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-29",
+            "count": 238,
+            "pulses": 17866,
+            "minimum": 7200
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-30",
+            "count": 237,
+            "pulses": 19551,
+            "minimum": 7200
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-01-31",
+            "count": 238,
+            "pulses": 19358,
+            "minimum": 7440
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-01",
+            "count": 237,
+            "pulses": 19013,
+            "minimum": 7200
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-02",
+            "count": 238,
+            "pulses": 14103,
+            "minimum": 6960
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-03",
+            "count": 238,
+            "pulses": 21114,
+            "minimum": 7440
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-04",
+            "count": 237,
+            "pulses": 31498,
+            "minimum": 7680
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-05",
+            "count": 238,
+            "pulses": 36306,
+            "minimum": 6480
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-06",
+            "count": 237,
+            "pulses": 30470,
+            "minimum": 6480
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-07",
+            "count": 238,
+            "pulses": 35969,
+            "minimum": 6000
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-08",
+            "count": 237,
+            "pulses": 27013,
+            "minimum": 6480
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-09",
+            "count": 238,
+            "pulses": 15538,
+            "minimum": 6960
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-10",
+            "count": 238,
+            "pulses": 26924,
+            "minimum": 6480
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-11",
+            "count": 237,
+            "pulses": 35778,
+            "minimum": 7680
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-12",
+            "count": 238,
+            "pulses": 34176,
+            "minimum": 6720
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-13",
+            "count": 238,
+            "pulses": 36364,
+            "minimum": 10560
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-14",
+            "count": 237,
+            "pulses": 39764,
+            "minimum": 14880
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-15",
+            "count": 238,
+            "pulses": 28802,
+            "minimum": 7200
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-16",
+            "count": 237,
+            "pulses": 16171,
+            "minimum": 5280
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-17",
+            "count": 238,
+            "pulses": 24894,
+            "minimum": 11040
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-18",
+            "count": 238,
+            "pulses": 32532,
+            "minimum": 8160
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-19",
+            "count": 237,
+            "pulses": 32252,
+            "minimum": 8160
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-20",
+            "count": 238,
+            "pulses": 38685,
+            "minimum": 5760
+        },
+        {
+            "device_id": "3A9949",
+            "day": "2019-02-21",
+            "count": 167,
+            "pulses": 25394,
+            "minimum": 9120
+        }
+    ]
+}
